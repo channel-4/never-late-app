@@ -1,7 +1,10 @@
 {
   "permissions": {
     "allow": [
-      "Bash(mkdir:*)"
+      "Bash(mkdir:*)",
+      "Bash(flutter:*)",
+      "Bash($ANDROID_HOME/emulator/emulator:*)",
+      "Bash(echo $ANDROID_SDK_ROOT)"
     ],
     "deny": []
   }

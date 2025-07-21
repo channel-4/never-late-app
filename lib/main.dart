@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:never_late_app/page/schedule.dart';
+import 'package:never_late_app/pages/schedule.dart';
 
 void main() {
   runApp(const MyApp());
